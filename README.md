@@ -5,6 +5,7 @@ shellinabox
 [![Build Status](https://drone.io/github.com/shellinabox/shellinabox/status.png)](https://drone.io/github.com/shellinabox/shellinabox/latest)
 [![Join the chat at https://gitter.im/shellinabox/shellinabox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shellinabox/shellinabox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[http://www.tecmint.com/shell-in-a-box-a-web-based-ssh-terminal-to-access-remote-linux-servers/](a blog )
 
 This is unofficial fork of project **Shell In A Box**. Fork was created because
 original project is not maintained anymore and we cannot contact original
